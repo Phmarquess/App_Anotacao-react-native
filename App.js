@@ -1,7 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import React ,{ useState, useEffect} from 'react';
-import { StyleSheet, Text, View, Button, TouchableOpacity, TextInput } from 'react-native';
-import AsyncStorage from 'react-native';
+import { StyleSheet, Text, View, Button, TouchableOpacity, TextInput,AsyncStorage } from 'react-native';
 
 export default function App() {
 
